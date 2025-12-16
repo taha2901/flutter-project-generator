@@ -6,19 +6,13 @@ One command to generate a complete **Feature-First Clean Architecture** structur
 
 ---
 
-## 📸 Structure Overview
-
-![Project Structure](assets/structure.png)
-
----
-
 ## ⚡ Quick Start
 
 **Step 1:** Download the script
 
 **Step 2:** Place it in your Flutter project root (same level as `pubspec.yaml`)
 
-**Step 3:** Run it in terminal
+**Step 3:** Run it in terminal (dart run create_files.dart)
 
 **Done!** Your project structure is ready ✨
 
